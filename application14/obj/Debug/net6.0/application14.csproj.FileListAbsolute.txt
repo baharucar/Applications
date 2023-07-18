@@ -1,0 +1,15 @@
+/Users/baharucar/Desktop/ibbfullstack/applications/application14/bin/Debug/net6.0/application14
+/Users/baharucar/Desktop/ibbfullstack/applications/application14/bin/Debug/net6.0/application14.deps.json
+/Users/baharucar/Desktop/ibbfullstack/applications/application14/bin/Debug/net6.0/application14.runtimeconfig.json
+/Users/baharucar/Desktop/ibbfullstack/applications/application14/bin/Debug/net6.0/application14.dll
+/Users/baharucar/Desktop/ibbfullstack/applications/application14/bin/Debug/net6.0/application14.pdb
+/Users/baharucar/Desktop/ibbfullstack/applications/application14/obj/Debug/net6.0/application14.csproj.AssemblyReference.cache
+/Users/baharucar/Desktop/ibbfullstack/applications/application14/obj/Debug/net6.0/application14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baharucar/Desktop/ibbfullstack/applications/application14/obj/Debug/net6.0/application14.AssemblyInfoInputs.cache
+/Users/baharucar/Desktop/ibbfullstack/applications/application14/obj/Debug/net6.0/application14.AssemblyInfo.cs
+/Users/baharucar/Desktop/ibbfullstack/applications/application14/obj/Debug/net6.0/application14.csproj.CoreCompileInputs.cache
+/Users/baharucar/Desktop/ibbfullstack/applications/application14/obj/Debug/net6.0/application14.dll
+/Users/baharucar/Desktop/ibbfullstack/applications/application14/obj/Debug/net6.0/refint/application14.dll
+/Users/baharucar/Desktop/ibbfullstack/applications/application14/obj/Debug/net6.0/application14.pdb
+/Users/baharucar/Desktop/ibbfullstack/applications/application14/obj/Debug/net6.0/application14.genruntimeconfig.cache
+/Users/baharucar/Desktop/ibbfullstack/applications/application14/obj/Debug/net6.0/ref/application14.dll

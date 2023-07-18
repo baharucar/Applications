@@ -1,0 +1,15 @@
+/Users/baharucar/Desktop/ibbfullstack/applications/application7/obj/Debug/net6.0/application7.csproj.AssemblyReference.cache
+/Users/baharucar/Desktop/ibbfullstack/applications/application7/obj/Debug/net6.0/application7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/baharucar/Desktop/ibbfullstack/applications/application7/obj/Debug/net6.0/application7.AssemblyInfoInputs.cache
+/Users/baharucar/Desktop/ibbfullstack/applications/application7/obj/Debug/net6.0/application7.AssemblyInfo.cs
+/Users/baharucar/Desktop/ibbfullstack/applications/application7/obj/Debug/net6.0/application7.csproj.CoreCompileInputs.cache
+/Users/baharucar/Desktop/ibbfullstack/applications/application7/bin/Debug/net6.0/application7
+/Users/baharucar/Desktop/ibbfullstack/applications/application7/bin/Debug/net6.0/application7.deps.json
+/Users/baharucar/Desktop/ibbfullstack/applications/application7/bin/Debug/net6.0/application7.runtimeconfig.json
+/Users/baharucar/Desktop/ibbfullstack/applications/application7/bin/Debug/net6.0/application7.dll
+/Users/baharucar/Desktop/ibbfullstack/applications/application7/bin/Debug/net6.0/application7.pdb
+/Users/baharucar/Desktop/ibbfullstack/applications/application7/obj/Debug/net6.0/application7.dll
+/Users/baharucar/Desktop/ibbfullstack/applications/application7/obj/Debug/net6.0/refint/application7.dll
+/Users/baharucar/Desktop/ibbfullstack/applications/application7/obj/Debug/net6.0/application7.pdb
+/Users/baharucar/Desktop/ibbfullstack/applications/application7/obj/Debug/net6.0/application7.genruntimeconfig.cache
+/Users/baharucar/Desktop/ibbfullstack/applications/application7/obj/Debug/net6.0/ref/application7.dll
